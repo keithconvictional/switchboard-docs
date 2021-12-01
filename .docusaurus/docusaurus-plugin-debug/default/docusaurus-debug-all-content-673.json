@@ -17,19 +17,150 @@
           "sidebarFilePath": "/Users/keithweaver/Desktop/switchboard-docs/sidebars.js",
           "contentPath": "/Users/keithweaver/Desktop/switchboard-docs/docs",
           "contentPathLocalized": "/Users/keithweaver/Desktop/switchboard-docs/i18n/en/docusaurus-plugin-content-docs/current",
-          "mainDocId": "intro",
+          "mainDocId": "getting-started",
           "docs": [
             {
-              "unversionedId": "intro",
-              "id": "intro",
+              "unversionedId": "building-new-switches",
+              "id": "building-new-switches",
               "isDocsHomePage": false,
-              "title": "Tutorial Intro",
-              "description": "Let's discover Docusaurus in less than 5 minutes.",
-              "source": "@site/docs/intro.md",
+              "title": "Building New Switches",
+              "description": "",
+              "source": "@site/docs/building-new-switches.md",
               "sourceDirName": ".",
-              "slug": "/intro",
-              "permalink": "/docs/intro",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/intro.md",
+              "slug": "/building-new-switches",
+              "permalink": "/docs/building-new-switches",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/building-new-switches.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Welcome to Switchboard",
+                "permalink": "/docs/getting-started"
+              },
+              "next": {
+                "title": "Setups",
+                "permalink": "/docs/Deployments/Shared/setups"
+              }
+            },
+            {
+              "unversionedId": "Deployments/AWS/deploying-to-aws",
+              "id": "Deployments/AWS/deploying-to-aws",
+              "isDocsHomePage": false,
+              "title": "Deploying to Amazon Web Services (AWS)",
+              "description": "",
+              "source": "@site/docs/Deployments/AWS/deploying-to-aws.md",
+              "sourceDirName": "Deployments/AWS",
+              "slug": "/Deployments/AWS/deploying-to-aws",
+              "permalink": "/docs/Deployments/AWS/deploying-to-aws",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Deployments/AWS/deploying-to-aws.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Setups",
+                "permalink": "/docs/Deployments/Shared/setups"
+              },
+              "next": {
+                "title": "manual-setup-for-aws",
+                "permalink": "/docs/Deployments/AWS/manual-setup-for-aws"
+              }
+            },
+            {
+              "unversionedId": "Deployments/AWS/manual-setup-for-aws",
+              "id": "Deployments/AWS/manual-setup-for-aws",
+              "isDocsHomePage": false,
+              "title": "manual-setup-for-aws",
+              "description": "",
+              "source": "@site/docs/Deployments/AWS/manual-setup-for-aws.md",
+              "sourceDirName": "Deployments/AWS",
+              "slug": "/Deployments/AWS/manual-setup-for-aws",
+              "permalink": "/docs/Deployments/AWS/manual-setup-for-aws",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Deployments/AWS/manual-setup-for-aws.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Deploying to Amazon Web Services (AWS)",
+                "permalink": "/docs/Deployments/AWS/deploying-to-aws"
+              },
+              "next": {
+                "title": "Rate Limiting on Outbound Requests",
+                "permalink": "/docs/Deployments/Shared/rate-limiting"
+              }
+            },
+            {
+              "unversionedId": "Deployments/GCP/deploying-to-gcp",
+              "id": "Deployments/GCP/deploying-to-gcp",
+              "isDocsHomePage": false,
+              "title": "Deploying to Google Cloud Platform (GCP)",
+              "description": "",
+              "source": "@site/docs/Deployments/GCP/deploying-to-gcp.md",
+              "sourceDirName": "Deployments/GCP",
+              "slug": "/Deployments/GCP/deploying-to-gcp",
+              "permalink": "/docs/Deployments/GCP/deploying-to-gcp",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Deployments/GCP/deploying-to-gcp.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Deployments/Shared/rate-limiting",
+              "id": "Deployments/Shared/rate-limiting",
+              "isDocsHomePage": false,
+              "title": "Rate Limiting on Outbound Requests",
+              "description": "",
+              "source": "@site/docs/Deployments/Shared/rate-limiting.md",
+              "sourceDirName": "Deployments/Shared",
+              "slug": "/Deployments/Shared/rate-limiting",
+              "permalink": "/docs/Deployments/Shared/rate-limiting",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Deployments/Shared/rate-limiting.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "manual-setup-for-aws",
+                "permalink": "/docs/Deployments/AWS/manual-setup-for-aws"
+              }
+            },
+            {
+              "unversionedId": "Deployments/Shared/setups",
+              "id": "Deployments/Shared/setups",
+              "isDocsHomePage": false,
+              "title": "Setups",
+              "description": "",
+              "source": "@site/docs/Deployments/Shared/setups.md",
+              "sourceDirName": "Deployments/Shared",
+              "slug": "/Deployments/Shared/setups",
+              "permalink": "/docs/Deployments/Shared/setups",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Deployments/Shared/setups.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Building New Switches",
+                "permalink": "/docs/building-new-switches"
+              },
+              "next": {
+                "title": "Deploying to Amazon Web Services (AWS)",
+                "permalink": "/docs/Deployments/AWS/deploying-to-aws"
+              }
+            },
+            {
+              "unversionedId": "getting-started",
+              "id": "getting-started",
+              "isDocsHomePage": false,
+              "title": "Welcome to Switchboard",
+              "description": "Switchboard is an out of the box tool for building ETL jobs using serverless functions",
+              "source": "@site/docs/getting-started.md",
+              "sourceDirName": ".",
+              "slug": "/getting-started",
+              "permalink": "/docs/getting-started",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/getting-started.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -38,220 +169,8 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "Create a Page",
-                "permalink": "/docs/tutorial-basics/create-a-page"
-              }
-            },
-            {
-              "unversionedId": "tutorial-basics/congratulations",
-              "id": "tutorial-basics/congratulations",
-              "isDocsHomePage": false,
-              "title": "Congratulations!",
-              "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
-              "source": "@site/docs/tutorial-basics/congratulations.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/congratulations",
-              "permalink": "/docs/tutorial-basics/congratulations",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-basics/congratulations.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 6,
-              "frontMatter": {
-                "sidebar_position": 6
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Deploy your site",
-                "permalink": "/docs/tutorial-basics/deploy-your-site"
-              },
-              "next": {
-                "title": "Manage Docs Versions",
-                "permalink": "/docs/tutorial-extras/manage-docs-versions"
-              }
-            },
-            {
-              "unversionedId": "tutorial-basics/create-a-blog-post",
-              "id": "tutorial-basics/create-a-blog-post",
-              "isDocsHomePage": false,
-              "title": "Create a Blog Post",
-              "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
-              "source": "@site/docs/tutorial-basics/create-a-blog-post.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/create-a-blog-post",
-              "permalink": "/docs/tutorial-basics/create-a-blog-post",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-basics/create-a-blog-post.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Create a Document",
-                "permalink": "/docs/tutorial-basics/create-a-document"
-              },
-              "next": {
-                "title": "Markdown Features",
-                "permalink": "/docs/tutorial-basics/markdown-features"
-              }
-            },
-            {
-              "unversionedId": "tutorial-basics/create-a-document",
-              "id": "tutorial-basics/create-a-document",
-              "isDocsHomePage": false,
-              "title": "Create a Document",
-              "description": "Documents are groups of pages connected through:",
-              "source": "@site/docs/tutorial-basics/create-a-document.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/create-a-document",
-              "permalink": "/docs/tutorial-basics/create-a-document",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-basics/create-a-document.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Create a Page",
-                "permalink": "/docs/tutorial-basics/create-a-page"
-              },
-              "next": {
-                "title": "Create a Blog Post",
-                "permalink": "/docs/tutorial-basics/create-a-blog-post"
-              }
-            },
-            {
-              "unversionedId": "tutorial-basics/create-a-page",
-              "id": "tutorial-basics/create-a-page",
-              "isDocsHomePage": false,
-              "title": "Create a Page",
-              "description": "Add Markdown or React files to src/pages to create a standalone page:",
-              "source": "@site/docs/tutorial-basics/create-a-page.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/create-a-page",
-              "permalink": "/docs/tutorial-basics/create-a-page",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-basics/create-a-page.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Tutorial Intro",
-                "permalink": "/docs/intro"
-              },
-              "next": {
-                "title": "Create a Document",
-                "permalink": "/docs/tutorial-basics/create-a-document"
-              }
-            },
-            {
-              "unversionedId": "tutorial-basics/deploy-your-site",
-              "id": "tutorial-basics/deploy-your-site",
-              "isDocsHomePage": false,
-              "title": "Deploy your site",
-              "description": "Docusaurus is a static-site-generator (also called Jamstack).",
-              "source": "@site/docs/tutorial-basics/deploy-your-site.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/deploy-your-site",
-              "permalink": "/docs/tutorial-basics/deploy-your-site",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-basics/deploy-your-site.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 5,
-              "frontMatter": {
-                "sidebar_position": 5
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Markdown Features",
-                "permalink": "/docs/tutorial-basics/markdown-features"
-              },
-              "next": {
-                "title": "Congratulations!",
-                "permalink": "/docs/tutorial-basics/congratulations"
-              }
-            },
-            {
-              "unversionedId": "tutorial-basics/markdown-features",
-              "id": "tutorial-basics/markdown-features",
-              "isDocsHomePage": false,
-              "title": "Markdown Features",
-              "description": "Docusaurus supports Markdown and a few additional features.",
-              "source": "@site/docs/tutorial-basics/markdown-features.mdx",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/markdown-features",
-              "permalink": "/docs/tutorial-basics/markdown-features",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-basics/markdown-features.mdx",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {
-                "sidebar_position": 4
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Create a Blog Post",
-                "permalink": "/docs/tutorial-basics/create-a-blog-post"
-              },
-              "next": {
-                "title": "Deploy your site",
-                "permalink": "/docs/tutorial-basics/deploy-your-site"
-              }
-            },
-            {
-              "unversionedId": "tutorial-extras/manage-docs-versions",
-              "id": "tutorial-extras/manage-docs-versions",
-              "isDocsHomePage": false,
-              "title": "Manage Docs Versions",
-              "description": "Docusaurus can manage multiple versions of your docs.",
-              "source": "@site/docs/tutorial-extras/manage-docs-versions.md",
-              "sourceDirName": "tutorial-extras",
-              "slug": "/tutorial-extras/manage-docs-versions",
-              "permalink": "/docs/tutorial-extras/manage-docs-versions",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-extras/manage-docs-versions.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Congratulations!",
-                "permalink": "/docs/tutorial-basics/congratulations"
-              },
-              "next": {
-                "title": "Translate your site",
-                "permalink": "/docs/tutorial-extras/translate-your-site"
-              }
-            },
-            {
-              "unversionedId": "tutorial-extras/translate-your-site",
-              "id": "tutorial-extras/translate-your-site",
-              "isDocsHomePage": false,
-              "title": "Translate your site",
-              "description": "Let's translate docs/intro.md to French.",
-              "source": "@site/docs/tutorial-extras/translate-your-site.md",
-              "sourceDirName": "tutorial-extras",
-              "slug": "/tutorial-extras/translate-your-site",
-              "permalink": "/docs/tutorial-extras/translate-your-site",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-extras/translate-your-site.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Manage Docs Versions",
-                "permalink": "/docs/tutorial-extras/manage-docs-versions"
+                "title": "Building New Switches",
+                "permalink": "/docs/building-new-switches"
               }
             }
           ],
@@ -259,55 +178,49 @@
             "tutorialSidebar": [
               {
                 "type": "doc",
-                "id": "intro"
+                "label": "Getting Started",
+                "id": "getting-started"
+              },
+              {
+                "type": "doc",
+                "label": "Building New Switches",
+                "id": "building-new-switches"
               },
               {
                 "type": "category",
-                "label": "Tutorial - Basics",
-                "collapsible": true,
-                "collapsed": true,
+                "label": "Deployment",
                 "items": [
                   {
                     "type": "doc",
-                    "id": "tutorial-basics/create-a-page"
+                    "label": "Setups",
+                    "id": "Deployments/Shared/setups"
+                  },
+                  {
+                    "type": "category",
+                    "label": "AWS",
+                    "items": [
+                      {
+                        "type": "doc",
+                        "label": "Deploying to Amazon Web Services (AWS)",
+                        "id": "Deployments/AWS/deploying-to-aws"
+                      },
+                      {
+                        "type": "doc",
+                        "label": "Manually Setup",
+                        "id": "Deployments/AWS/manual-setup-for-aws"
+                      }
+                    ],
+                    "collapsible": true,
+                    "collapsed": true
                   },
                   {
                     "type": "doc",
-                    "id": "tutorial-basics/create-a-document"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-basics/create-a-blog-post"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-basics/markdown-features"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-basics/deploy-your-site"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-basics/congratulations"
+                    "label": "Rate Limiting",
+                    "id": "Deployments/Shared/rate-limiting"
                   }
-                ]
-              },
-              {
-                "type": "category",
-                "label": "Tutorial - Extras",
+                ],
                 "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "tutorial-extras/manage-docs-versions"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-extras/translate-your-site"
-                  }
-                ]
+                "collapsed": true
               }
             ]
           }

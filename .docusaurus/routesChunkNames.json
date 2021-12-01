@@ -125,45 +125,37 @@
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---markdown-page-393-028"
   },
-  "/docs-87d": {
+  "/docs-738": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docs-935-398"
   },
-  "/docs/intro-aed": {
+  "/docs/building-new-switches-aa1": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-0-e-3-be1"
+    "content": "content---docs-building-new-switchesa-1-c-0c9"
   },
-  "/docs/tutorial-basics/congratulations-793": {
+  "/docs/Deployments/AWS/deploying-to-aws-766": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-congratulations-822-958"
+    "content": "content---docs-deployments-aws-deploying-to-awsc-34-ef1"
   },
-  "/docs/tutorial-basics/create-a-blog-post-68e": {
+  "/docs/Deployments/AWS/manual-setup-for-aws-f78": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-blog-post-533-e85"
+    "content": "content---docs-deployments-aws-manual-setup-for-aws-2-db-b14"
   },
-  "/docs/tutorial-basics/create-a-document-c2d": {
+  "/docs/Deployments/GCP/deploying-to-gcp-392": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-document-1-e-4-078"
+    "content": "content---docs-deployments-gcp-deploying-to-gcp-71-e-f8d"
   },
-  "/docs/tutorial-basics/create-a-page-f44": {
+  "/docs/Deployments/Shared/rate-limiting-176": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-page-5-c-8-e19"
+    "content": "content---docs-deployments-shared-rate-limiting-9-fb-bdc"
   },
-  "/docs/tutorial-basics/deploy-your-site-e46": {
+  "/docs/Deployments/Shared/setups-5bb": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-deploy-your-sitef-55-a3f"
+    "content": "content---docs-deployments-shared-setupse-67-926"
   },
-  "/docs/tutorial-basics/markdown-features-4b7": {
+  "/docs/getting-started-a24": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-markdown-features-18-c-a79"
-  },
-  "/docs/tutorial-extras/manage-docs-versions-fdd": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-extras-manage-docs-versionsdff-6d4"
-  },
-  "/docs/tutorial-extras/translate-your-site-2d7": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-extras-translate-your-sitee-44-ddf"
+    "content": "content---docs-getting-startedd-58-f94"
   },
   "/-deb": {
     "component": "component---site-src-pages-index-jsc-4-f-f99",

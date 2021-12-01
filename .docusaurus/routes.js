@@ -100,59 +100,46 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','87d'),
+    component: ComponentCreator('/docs','738'),
     routes: [
       {
-        path: '/docs/intro',
-        component: ComponentCreator('/docs/intro','aed'),
+        path: '/docs/building-new-switches',
+        component: ComponentCreator('/docs/building-new-switches','aa1'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/congratulations',
-        component: ComponentCreator('/docs/tutorial-basics/congratulations','793'),
+        path: '/docs/Deployments/AWS/deploying-to-aws',
+        component: ComponentCreator('/docs/Deployments/AWS/deploying-to-aws','766'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/create-a-blog-post',
-        component: ComponentCreator('/docs/tutorial-basics/create-a-blog-post','68e'),
+        path: '/docs/Deployments/AWS/manual-setup-for-aws',
+        component: ComponentCreator('/docs/Deployments/AWS/manual-setup-for-aws','f78'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/create-a-document',
-        component: ComponentCreator('/docs/tutorial-basics/create-a-document','c2d'),
+        path: '/docs/Deployments/GCP/deploying-to-gcp',
+        component: ComponentCreator('/docs/Deployments/GCP/deploying-to-gcp','392'),
+        exact: true
+      },
+      {
+        path: '/docs/Deployments/Shared/rate-limiting',
+        component: ComponentCreator('/docs/Deployments/Shared/rate-limiting','176'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/create-a-page',
-        component: ComponentCreator('/docs/tutorial-basics/create-a-page','f44'),
+        path: '/docs/Deployments/Shared/setups',
+        component: ComponentCreator('/docs/Deployments/Shared/setups','5bb'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/deploy-your-site',
-        component: ComponentCreator('/docs/tutorial-basics/deploy-your-site','e46'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/docs/tutorial-basics/markdown-features',
-        component: ComponentCreator('/docs/tutorial-basics/markdown-features','4b7'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/docs/tutorial-extras/manage-docs-versions',
-        component: ComponentCreator('/docs/tutorial-extras/manage-docs-versions','fdd'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/docs/tutorial-extras/translate-your-site',
-        component: ComponentCreator('/docs/tutorial-extras/translate-your-site','2d7'),
+        path: '/docs/getting-started',
+        component: ComponentCreator('/docs/getting-started','a24'),
         exact: true,
         'sidebar': "tutorialSidebar"
       }

@@ -28,7 +28,7 @@ export default {
   ],
   "themeConfig": {
     "navbar": {
-      "title": "My Site",
+      "title": "Switchboard",
       "logo": {
         "alt": "My Site Logo",
         "src": "img/logo.svg"
@@ -36,9 +36,9 @@ export default {
       "items": [
         {
           "type": "doc",
-          "docId": "intro",
+          "docId": "getting-started",
           "position": "left",
-          "label": "Tutorial"
+          "label": "Docs"
         },
         {
           "to": "/blog",
@@ -46,8 +46,8 @@ export default {
           "position": "left"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
-          "label": "GitHub",
+          "href": "https://convictional.com?ref=switchboard",
+          "label": "Convictional",
           "position": "right"
         }
       ],

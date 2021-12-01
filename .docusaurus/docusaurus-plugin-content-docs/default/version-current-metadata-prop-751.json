@@ -10,64 +10,49 @@
     "tutorialSidebar": [
       {
         "type": "link",
-        "label": "Tutorial Intro",
-        "href": "/docs/intro"
+        "label": "Getting Started",
+        "href": "/docs/getting-started"
+      },
+      {
+        "type": "link",
+        "label": "Building New Switches",
+        "href": "/docs/building-new-switches"
       },
       {
         "type": "category",
-        "label": "Tutorial - Basics",
-        "collapsible": true,
-        "collapsed": true,
+        "label": "Deployment",
         "items": [
           {
             "type": "link",
-            "label": "Create a Page",
-            "href": "/docs/tutorial-basics/create-a-page"
+            "label": "Setups",
+            "href": "/docs/Deployments/Shared/setups"
+          },
+          {
+            "type": "category",
+            "label": "AWS",
+            "items": [
+              {
+                "type": "link",
+                "label": "Deploying to Amazon Web Services (AWS)",
+                "href": "/docs/Deployments/AWS/deploying-to-aws"
+              },
+              {
+                "type": "link",
+                "label": "Manually Setup",
+                "href": "/docs/Deployments/AWS/manual-setup-for-aws"
+              }
+            ],
+            "collapsible": true,
+            "collapsed": true
           },
           {
             "type": "link",
-            "label": "Create a Document",
-            "href": "/docs/tutorial-basics/create-a-document"
-          },
-          {
-            "type": "link",
-            "label": "Create a Blog Post",
-            "href": "/docs/tutorial-basics/create-a-blog-post"
-          },
-          {
-            "type": "link",
-            "label": "Markdown Features",
-            "href": "/docs/tutorial-basics/markdown-features"
-          },
-          {
-            "type": "link",
-            "label": "Deploy your site",
-            "href": "/docs/tutorial-basics/deploy-your-site"
-          },
-          {
-            "type": "link",
-            "label": "Congratulations!",
-            "href": "/docs/tutorial-basics/congratulations"
+            "label": "Rate Limiting",
+            "href": "/docs/Deployments/Shared/rate-limiting"
           }
-        ]
-      },
-      {
-        "type": "category",
-        "label": "Tutorial - Extras",
+        ],
         "collapsible": true,
-        "collapsed": true,
-        "items": [
-          {
-            "type": "link",
-            "label": "Manage Docs Versions",
-            "href": "/docs/tutorial-extras/manage-docs-versions"
-          },
-          {
-            "type": "link",
-            "label": "Translate your site",
-            "href": "/docs/tutorial-extras/translate-your-site"
-          }
-        ]
+        "collapsed": true
       }
     ]
   }
