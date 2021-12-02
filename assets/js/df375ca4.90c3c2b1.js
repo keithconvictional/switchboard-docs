@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkswitchboard=self.webpackChunkswitchboard||[]).push([[545],{3794:function(s){s.exports=JSON.parse('{"allTagsPath":"/switchboard-docs/blog/tags","slug":"/switchboard-docs/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/switchboard-docs/blog/tags/docusaurus"}')}}]);

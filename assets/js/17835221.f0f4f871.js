@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkswitchboard=self.webpackChunkswitchboard||[]).push([[675],{9169:function(o){o.exports=JSON.parse('{"allTagsPath":"/switchboard-docs/blog/tags","slug":"/switchboard-docs/blog/tags/facebook","name":"facebook","count":1,"permalink":"/switchboard-docs/blog/tags/facebook"}')}}]);
