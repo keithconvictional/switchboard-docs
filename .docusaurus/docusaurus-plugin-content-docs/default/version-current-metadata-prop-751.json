@@ -11,12 +11,12 @@
       {
         "type": "link",
         "label": "Getting Started",
-        "href": "/docs/getting-started"
+        "href": "/switchboard-docs/docs/getting-started"
       },
       {
         "type": "link",
         "label": "Building New Switches",
-        "href": "/docs/building-new-switches"
+        "href": "/switchboard-docs/docs/building-new-switches"
       },
       {
         "type": "category",
@@ -25,7 +25,7 @@
           {
             "type": "link",
             "label": "Setups",
-            "href": "/docs/Deployments/Shared/setups"
+            "href": "/switchboard-docs/docs/Deployments/Shared/setups"
           },
           {
             "type": "category",
@@ -34,12 +34,12 @@
               {
                 "type": "link",
                 "label": "Deploying to Amazon Web Services (AWS)",
-                "href": "/docs/Deployments/AWS/deploying-to-aws"
+                "href": "/switchboard-docs/docs/Deployments/AWS/deploying-to-aws"
               },
               {
                 "type": "link",
                 "label": "Manually Setup",
-                "href": "/docs/Deployments/AWS/manual-setup-for-aws"
+                "href": "/switchboard-docs/docs/Deployments/AWS/manual-setup-for-aws"
               }
             ],
             "collapsible": true,
@@ -48,7 +48,7 @@
           {
             "type": "link",
             "label": "Rate Limiting",
-            "href": "/docs/Deployments/Shared/rate-limiting"
+            "href": "/switchboard-docs/docs/Deployments/Shared/rate-limiting"
           }
         ],
         "collapsible": true,

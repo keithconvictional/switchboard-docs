@@ -1,48 +1,60 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs",
+      "path": "/switchboard-docs/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/docs",
+          "path": "/switchboard-docs/docs",
           "mainDocId": "getting-started",
           "docs": [
             {
               "id": "building-new-switches",
-              "path": "/docs/building-new-switches",
+              "path": "/switchboard-docs/docs/building-new-switches",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Deployments/AWS/deploying-to-aws",
-              "path": "/docs/Deployments/AWS/deploying-to-aws",
+              "path": "/switchboard-docs/docs/Deployments/AWS/deploying-to-aws",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Deployments/AWS/manual-setup-for-aws",
-              "path": "/docs/Deployments/AWS/manual-setup-for-aws",
+              "path": "/switchboard-docs/docs/Deployments/AWS/manual-setup-for-aws",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Deployments/GCP/deploying-to-gcp",
-              "path": "/docs/Deployments/GCP/deploying-to-gcp"
+              "path": "/switchboard-docs/docs/Deployments/GCP/deploying-to-gcp"
             },
             {
               "id": "Deployments/Shared/rate-limiting",
-              "path": "/docs/Deployments/Shared/rate-limiting",
+              "path": "/switchboard-docs/docs/Deployments/Shared/rate-limiting",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Deployments/Shared/setups",
-              "path": "/docs/Deployments/Shared/setups",
+              "path": "/switchboard-docs/docs/Deployments/Shared/setups",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "getting-started",
-              "path": "/docs/getting-started",
+              "path": "/switchboard-docs/docs/getting-started",
               "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Tutorials/how-to-build-word-count-switch-for-convictional-products",
+              "path": "/switchboard-docs/docs/Tutorials/how-to-build-word-count-switch-for-convictional-products"
+            },
+            {
+              "id": "Tutorials/setting-up-an-api-for-lambda",
+              "path": "/switchboard-docs/docs/Tutorials/setting-up-an-api-for-lambda"
+            },
+            {
+              "id": "Tutorials/setup-schedule-job-for-aws-lambda",
+              "path": "/switchboard-docs/docs/Tutorials/setup-schedule-job-for-aws-lambda"
             }
           ]
         }

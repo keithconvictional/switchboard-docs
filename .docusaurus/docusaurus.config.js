@@ -1,13 +1,13 @@
 export default {
-  "title": "My Site",
+  "title": "Switchboard | Docs",
   "tagline": "Dinosaurs are cool",
-  "url": "https://your-docusaurus-test-site.com",
-  "baseUrl": "/",
+  "url": "https://keithconvictional.github.io",
+  "baseUrl": "/switchboard-docs/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "organizationName": "keithconvictional",
+  "projectName": "switchboard-docs",
   "presets": [
     [
       "@docusaurus/preset-classic",

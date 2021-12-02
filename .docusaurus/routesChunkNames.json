@@ -1,27 +1,27 @@
 {
-  "/__docusaurus/debug-3d6": {
+  "/switchboard-docs/__docusaurus/debug-869": {
     "component": "component---theme-debug-config-23-a-2ff"
   },
-  "/__docusaurus/debug/config-914": {
+  "/switchboard-docs/__docusaurus/debug/config-7e9": {
     "component": "component---theme-debug-config-23-a-2ff"
   },
-  "/__docusaurus/debug/content-c28": {
+  "/switchboard-docs/__docusaurus/debug/content-c17": {
     "component": "component---theme-debug-contentba-8-ce7",
     "allContent": "allContent---docusaurus-debug-content-246-9aa"
   },
-  "/__docusaurus/debug/globalData-3cf": {
+  "/switchboard-docs/__docusaurus/debug/globalData-7eb": {
     "component": "component---theme-debug-global-dataede-0fa"
   },
-  "/__docusaurus/debug/metadata-31b": {
+  "/switchboard-docs/__docusaurus/debug/metadata-48d": {
     "component": "component---theme-debug-site-metadata-68-e-3d4"
   },
-  "/__docusaurus/debug/registry-0da": {
+  "/switchboard-docs/__docusaurus/debug/registry-d94": {
     "component": "component---theme-debug-registry-679-501"
   },
-  "/__docusaurus/debug/routes-244": {
+  "/switchboard-docs/__docusaurus/debug/routes-ef8": {
     "component": "component---theme-debug-routes-946-699"
   },
-  "/blog-520": {
+  "/switchboard-docs/blog-607": {
     "component": "component---theme-blog-list-pagea-6-a-7ba",
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
@@ -38,33 +38,33 @@
         "content": "content---blog-925-e00"
       }
     ],
-    "metadata": "metadata---blogb-2-b-df1"
+    "metadata": "metadata---switchboard-docs-blogc-88-9b4"
   },
-  "/blog/archive-f4c": {
+  "/switchboard-docs/blog/archive-8ee": {
     "component": "component---theme-blog-archive-page-9-e-4-1d8",
-    "archive": "archive---blog-archiveb-2-f-393"
+    "archive": "archive---switchboard-docs-blog-archive-1-c-1-2e0"
   },
-  "/blog/first-blog-post-6c7": {
+  "/switchboard-docs/blog/first-blog-post-ba9": {
     "component": "component---theme-blog-post-pageccc-cab",
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-first-blog-poste-27-4a1"
   },
-  "/blog/long-blog-post-f06": {
+  "/switchboard-docs/blog/long-blog-post-2aa": {
     "component": "component---theme-blog-post-pageccc-cab",
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-long-blog-post-736-bc7"
   },
-  "/blog/mdx-blog-post-bee": {
+  "/switchboard-docs/blog/mdx-blog-post-822": {
     "component": "component---theme-blog-post-pageccc-cab",
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-mdx-blog-post-593-37b"
   },
-  "/blog/tags-e13": {
+  "/switchboard-docs/blog/tags-eb9": {
     "component": "component---theme-blog-tags-list-page-01-a-d0b",
     "sidebar": "sidebar---blog-814-8ac",
-    "tags": "tags---blog-tagsa-70-da2"
+    "tags": "tags---switchboard-docs-blog-tags-1-fc-147"
   },
-  "/blog/tags/docusaurus-ddf": {
+  "/switchboard-docs/blog/tags/docusaurus-7d6": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
@@ -81,9 +81,9 @@
         "content": "content---blog-925-e00"
       }
     ],
-    "metadata": "metadata---blog-tags-docusaurusa-80-728"
+    "metadata": "metadata---switchboard-docs-blog-tags-docusaurusdf-3-5f0"
   },
-  "/blog/tags/facebook-ede": {
+  "/switchboard-docs/blog/tags/facebook-06c": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
@@ -91,9 +91,9 @@
         "content": "content---blog-766-e3c"
       }
     ],
-    "metadata": "metadata---blog-tags-facebook-031-c52"
+    "metadata": "metadata---switchboard-docs-blog-tags-facebook-178-f23"
   },
-  "/blog/tags/hello-4c2": {
+  "/switchboard-docs/blog/tags/hello-f40": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
@@ -104,9 +104,9 @@
         "content": "content---blog-871-381"
       }
     ],
-    "metadata": "metadata---blog-tags-hello-30-a-bed"
+    "metadata": "metadata---switchboard-docs-blog-tags-hello-014-fe2"
   },
-  "/blog/tags/hola-752": {
+  "/switchboard-docs/blog/tags/hola-590": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
@@ -114,50 +114,62 @@
         "content": "content---blog-925-e00"
       }
     ],
-    "metadata": "metadata---blog-tags-holae-16-18a"
+    "metadata": "metadata---switchboard-docs-blog-tags-hola-91-d-cce"
   },
-  "/blog/welcome-bfa": {
+  "/switchboard-docs/blog/welcome-2d7": {
     "component": "component---theme-blog-post-pageccc-cab",
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-welcomed-9-f-ffb"
   },
-  "/markdown-page-be1": {
+  "/switchboard-docs/markdown-page-346": {
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---markdown-page-393-028"
   },
-  "/docs-738": {
+  "/switchboard-docs/docs-663": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docs-935-398"
   },
-  "/docs/building-new-switches-aa1": {
+  "/switchboard-docs/docs/building-new-switches-548": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-building-new-switchesa-1-c-0c9"
   },
-  "/docs/Deployments/AWS/deploying-to-aws-766": {
+  "/switchboard-docs/docs/Deployments/AWS/deploying-to-aws-7c6": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-deployments-aws-deploying-to-awsc-34-ef1"
   },
-  "/docs/Deployments/AWS/manual-setup-for-aws-f78": {
+  "/switchboard-docs/docs/Deployments/AWS/manual-setup-for-aws-de1": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-deployments-aws-manual-setup-for-aws-2-db-b14"
   },
-  "/docs/Deployments/GCP/deploying-to-gcp-392": {
+  "/switchboard-docs/docs/Deployments/GCP/deploying-to-gcp-116": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-deployments-gcp-deploying-to-gcp-71-e-f8d"
   },
-  "/docs/Deployments/Shared/rate-limiting-176": {
+  "/switchboard-docs/docs/Deployments/Shared/rate-limiting-183": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-deployments-shared-rate-limiting-9-fb-bdc"
   },
-  "/docs/Deployments/Shared/setups-5bb": {
+  "/switchboard-docs/docs/Deployments/Shared/setups-558": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-deployments-shared-setupse-67-926"
   },
-  "/docs/getting-started-a24": {
+  "/switchboard-docs/docs/getting-started-aa5": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-getting-startedd-58-f94"
   },
-  "/-deb": {
+  "/switchboard-docs/docs/Tutorials/how-to-build-word-count-switch-for-convictional-products-3ed": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorials-how-to-build-word-count-switch-for-convictional-products-181-305"
+  },
+  "/switchboard-docs/docs/Tutorials/setting-up-an-api-for-lambda-1ea": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorials-setting-up-an-api-for-lambdab-34-3a2"
+  },
+  "/switchboard-docs/docs/Tutorials/setup-schedule-job-for-aws-lambda-97a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorials-setup-schedule-job-for-aws-lambdaabc-5f5"
+  },
+  "/switchboard-docs/-5ae": {
     "component": "component---site-src-pages-index-jsc-4-f-f99",
     "config": "config---5-e-9-4f3"
   }
